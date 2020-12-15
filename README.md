@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
-## A simple consule Tic Tac Toe game, developed in Ptyhon.
+## A simple consule Tic Tac Toe game, developed in Python.
 A strategy board game for two players.
 
 **Screenshots:**
